@@ -1,2 +1,8 @@
 .venv
+__pycache__/
 docs/
+images/*
+notes/*
+**data/*
+*.mat
+*.mat.7z
