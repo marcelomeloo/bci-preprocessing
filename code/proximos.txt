@@ -1,7 +1,0 @@
-- Testes no RPCA: 
-  - 9 canais x 250 amostras (1s) tempo e freq
-  - 64 canais x 250 amostras tempo e freq
-  - 
-- Calculo da energia (p freq):
-  - welch (scipy): mudar f amostragem, retorna array de potencias, somar tudo
-    (tem que ser no tempo)

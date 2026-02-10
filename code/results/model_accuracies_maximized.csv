@@ -1,0 +1,54 @@
+0
+""
+"  Maximized for Method Preprocessing Method  Least Squares Accuracy  \
+0               RPCA_L                  CAR               70.833333   
+1               RPCA_L               RPCA_L               62.500000   
+2               RPCA_L               RPCA_S               50.000000   
+3               RPCA_L           CAR_RPCA_L               75.000000   
+4               RPCA_L           CAR_RPCA_S               50.000000   
+
+   LDA Accuracy  SVM Accuracy  
+0     62.500000     58.333333  
+1     58.333333     79.166667  
+2     45.833333     62.500000  
+3     75.000000     83.333333  
+4     45.833333     70.833333  "
+"  Maximized for Method Preprocessing Method  Least Squares Accuracy  \
+0               RPCA_S                  CAR               70.833333   
+1               RPCA_S               RPCA_L               41.666667   
+2               RPCA_S               RPCA_S               62.500000   
+3               RPCA_S           CAR_RPCA_L               50.000000   
+4               RPCA_S           CAR_RPCA_S               62.500000   
+
+   LDA Accuracy  SVM Accuracy  
+0     62.500000     58.333333  
+1     45.833333     58.333333  
+2     62.500000     95.833333  
+3     50.000000     50.000000  
+4     58.333333     58.333333  "
+"  Maximized for Method Preprocessing Method  Least Squares Accuracy  \
+0           CAR_RPCA_L                  CAR               70.833333   
+1           CAR_RPCA_L               RPCA_L               75.000000   
+2           CAR_RPCA_L               RPCA_S               70.833333   
+3           CAR_RPCA_L           CAR_RPCA_L               75.000000   
+4           CAR_RPCA_L           CAR_RPCA_S               66.666667   
+
+   LDA Accuracy  SVM Accuracy  
+0     62.500000     58.333333  
+1     66.666667     70.833333  
+2     58.333333     79.166667  
+3     83.333333     87.500000  
+4     66.666667     83.333333  "
+"  Maximized for Method Preprocessing Method  Least Squares Accuracy  \
+0           CAR_RPCA_S                  CAR               70.833333   
+1           CAR_RPCA_S               RPCA_L               45.833333   
+2           CAR_RPCA_S               RPCA_S               58.333333   
+3           CAR_RPCA_S           CAR_RPCA_L               33.333333   
+4           CAR_RPCA_S           CAR_RPCA_S               70.833333   
+
+   LDA Accuracy  SVM Accuracy  
+0     62.500000     58.333333  
+1     54.166667     66.666667  
+2     54.166667     70.833333  
+3     33.333333     70.833333  
+4     70.833333     87.500000  "
