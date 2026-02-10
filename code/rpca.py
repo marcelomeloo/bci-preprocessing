@@ -49,11 +49,6 @@ def RPCA(X, lamb, mu, tolerance, max_iteration):
 
         err = np.linalg.norm(Z, "fro") / normX
 
-        if i % 100 == 0:
-            print(
-                f"iter: {i}, err: {err}, rank L: {np.linalg.matrix_rank(L)}, cardinality of S: {np.count_nonzero(S)}"
-            )
-
         if err < tolerance:
             break
 
